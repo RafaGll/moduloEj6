@@ -24,7 +24,7 @@ variable "vnet_address_space" {
 variable "location" {
   type = string
   #default     = "West Europe"
-  description = "Ubicación donde se desplegará al red"
+  description = "Ubicación donde se desplegará la red"
   default = "West Europe"
 
 }
